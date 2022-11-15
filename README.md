@@ -10,6 +10,14 @@
 ### 🛠 &nbsp;Tech Stack
 
 &nbsp;&nbsp;&nbsp;&nbsp;![HTML](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=golang)&nbsp;
+![HTML](https://img.shields.io/badge/-Cobra-05122A?style=flat)&nbsp;
+![HTML](https://img.shields.io/badge/-Docker-05122A?style=flat)&nbsp;
+![HTML](https://img.shields.io/badge/-Kubernetes-05122A?style=flat)&nbsp;
+![HTML](https://img.shields.io/badge/-AWS-05122A?style=flat)&nbsp;
+![HTML](https://img.shields.io/badge/-GORM-05122A?style=flat&logo=GORM)&nbsp;
+![HTML](https://img.shields.io/badge/-Ginkgo-05122A?style=flat&logo=Ginkgo)&nbsp;
+![HTML](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Kafka)&nbsp;
+![HTML](https://img.shields.io/badge/-Grpc-05122A?style=flat&logo=Grpc)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![mongodb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb&logoColor=80ED99)&nbsp;
