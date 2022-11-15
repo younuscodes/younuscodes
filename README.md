@@ -24,7 +24,6 @@
 <p align="center">
 <a href="https://github.com/younuscodes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=younuscodes&hide=[%22issues%22]&show_icons=true&line_height=30&theme=algolia"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=younuscodes&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
