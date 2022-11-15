@@ -9,7 +9,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-&nbsp;&nbsp;&nbsp;&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;![HTML](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=golang)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![mongodb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb&logoColor=80ED99)&nbsp;
 ![redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=a32422)&nbsp; \
